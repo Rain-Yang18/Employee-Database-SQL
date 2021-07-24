@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database: A Mystery in Two Parts
+# Employee Database: A Mystery in Two Parts
 
 ## Introduction
 The main task for this challenge is perform data engineering & data analysis on the employees' data in the corporation from the 1980s and 1990s.
