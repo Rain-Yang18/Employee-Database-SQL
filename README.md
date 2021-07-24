@@ -38,5 +38,5 @@ Import the SQL database into Pandas and create the below visualisations:
 
 ## Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2021. All Rights Reserved.
 
